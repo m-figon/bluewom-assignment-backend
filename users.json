@@ -1,0 +1,16 @@
+[
+	{
+		"email": "testUser@gmail.com",
+		"account": "testUser",
+		"password": "TestUser.123",
+		"currencies": [],
+		"id": 0
+	},
+	{
+		"email": "testUser2@gmail.com",
+		"account": "testUser2",
+		"password": "TestUser.321",
+		"currencies": [],
+		"id": 1
+	}
+]
